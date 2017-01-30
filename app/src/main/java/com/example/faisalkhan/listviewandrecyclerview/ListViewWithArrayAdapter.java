@@ -8,7 +8,12 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * Activity class
+ * Activity class for demonstrating how to use Array adapter with list view
+ *
+ * for more details :- https://developer.android.com/guide/topics/ui/layout/listview.html
+ * https://developer.android.com/reference/android/widget/ArrayAdapter.html
+ *
+ * @author faisal.khan
  */
 public class ListViewWithArrayAdapter extends AppCompatActivity {
 

@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">ListView and Recyclerview</string>
     <string name="list_view_and_recycler_view">ListView and RecyclerView</string>
+    <string name="list_view_with_array_adapter">ListView With ArrayAdapter</string>
+    <string name="recycler_view_example">RecyclerView Example</string>
+    <string name="list_view_with_custom_adapter">ListView with Custom Adapter</string>
 </resources>

@@ -25,10 +25,10 @@ Pre-requisites
 
 References
 --------------
-link https://developer.android.com/reference/android/widget/ListView.html
-link https://developer.android.com/guide/topics/ui/layout/listview.html
-link https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html
-link https://developer.android.com/training/material/lists-cards.html
+link https://developer.android.com/reference/android/widget/ListView.html</br>
+link https://developer.android.com/guide/topics/ui/layout/listview.html</br>
+link https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html</br>
+link https://developer.android.com/training/material/lists-cards.html</br>
 
 
 Screenshots

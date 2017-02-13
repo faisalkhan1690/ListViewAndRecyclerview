@@ -21,7 +21,9 @@ Pre-requisites
   ```
     apply plugin: 'com.android.support:recyclerview-v7:+'
   ```
-
+For more details follow doc
+--------------
+https://docs.google.com/document/d/1gcumB-SnyCaaAnTga0uPg_F5skXXuhMyrxkf_5YVjgQ/edit?usp=sharing
 
 References
 --------------

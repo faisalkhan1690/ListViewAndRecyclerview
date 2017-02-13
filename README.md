@@ -22,6 +22,15 @@ Pre-requisites
     apply plugin: 'com.android.support:recyclerview-v7:+'
   ```
 
+
+References
+--------------
+link https://developer.android.com/reference/android/widget/ListView.html
+link https://developer.android.com/guide/topics/ui/layout/listview.html
+link https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html
+link https://developer.android.com/training/material/lists-cards.html
+
+
 Screenshots
 --------------
 ![device-2017-02-13-173526](https://cloud.githubusercontent.com/assets/7554816/22883067/54b809dc-f214-11e6-9299-892943b7a53d.png)

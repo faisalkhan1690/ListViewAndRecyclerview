@@ -11,7 +11,13 @@ import com.example.faisalkhan.listviewandrecyclerview.adapters.MyRecyclerAdapter
 import java.util.ArrayList;
 
 /**
- * Activity class for demonstrating how to use recycler view in android
+ * Activity class for demonstrating how to use recycler view in android.
+ *
+ * For using RecyclerView in your project you need to add dependency
+ *   compile 'com.android.support:recyclerview-v7:+'
+ * your project in app.gradle file
+ *
+ * and follow RecyclerViewExample.java and activity_recycler_view_example.xml files to implementation in project
  *
  * for more details :-https://developer.android.com/reference/android/support/v7/widget/RecyclerView.html
  *

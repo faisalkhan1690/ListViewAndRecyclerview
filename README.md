@@ -4,8 +4,8 @@ A sample to know how to use ListView and Recyclerview in andorid
 This project covers 
 
 - How to use ListView
-- How to use listView with array Adapter 
-- How to use ListView With Array Adapter 
+- How to use ListView with ArrayAdapter 
+- How to use ListView With Custom Array Adapter 
 - How to use RecyclerView in android 
 - How to use ViewHolder 
 - How to use DividerItemDecoration with RecyclerView 
